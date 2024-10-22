@@ -11,3 +11,6 @@ https://docs.google.com/spreadsheets/d/134QAzmqJJZUNTLV8FvWNoTy7PQZAmVsmB3F1x1vq
 
 Grabación del KO:
 https://drive.google.com/file/d/1OSRccBB8AU36eCxIN8dd3oSB1mPI0ymD/view
+
+Documentación oficial de git:
+https://git-scm.com/docs/git-checkout
