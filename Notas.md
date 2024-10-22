@@ -1,3 +1,5 @@
+Clase_01: Enlaces para encontrar los materiales
+
 Slides + cronograma:
 https://docs.google.com/presentation/d/1wOaLfCvptsHshtTCnVUbgkqaB1j7Y2DGbBazDMp0Pu4/edit#slide=id.g2030982a8b1_0_341
 
