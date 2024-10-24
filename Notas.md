@@ -14,3 +14,7 @@ https://drive.google.com/file/d/1OSRccBB8AU36eCxIN8dd3oSB1mPI0ymD/view
 
 Documentación oficial de git:
 https://git-scm.com/docs/git-checkout
+
+Documentación de render:
+https://docs.render.com/free#free-web-services
+https://github.com/HX-FNegrete/render-fastapi-tutorial
